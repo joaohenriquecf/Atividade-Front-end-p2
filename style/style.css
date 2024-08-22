@@ -1,0 +1,29 @@
+body {
+    color: darkslategrey;
+    font-size: 17px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    font-size: 30px;
+    color: darkblue;
+    text-align: right;
+}
+
+h2 {
+    font-size: 24px;
+    color: darkblue;
+    background-color: lightskyblue;
+}
+
+a{ 
+    text-decoration: none;
+}
+/* links visitados */
+a:visited, a:active {
+    color: darkblue
+}
+
+a :hover{
+    text-decoration: underline;
+}
